@@ -8,6 +8,8 @@ Fill in the *number* from this list that best describes their relationship:
 1. $f(n)\not\in O(g(n))$, and $f(n)\not \in \Omega(g(n))$
 1. $f(n)\in \Theta (g(n))$
 
+I certify that I have listed all sources used to complete this exercise, including the use of any Large Language Models. All of the work is my own, except where stated otherwise. I am aware that plagiarism carries severe penalties and that if plagiarism is suspected, charges may be filed against me without prior notice.
+
 I have done the first one for you, as an example.
 
 | $f(n)=\ldots$              | compared to | $g(n)=\ldots$          |
